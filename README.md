@@ -12,7 +12,7 @@ I speak english and portuguese so feel free to use either
 
 The best way to contact me is through discord
 
-<!-- <img src="./assets/discord.png" alt="Discord username" title="Discord username" style="max-height: 16px; max-width: 16px;">  -->CyanMarine#2627
+<img src="https://raw.githubusercontent.com/PrincessCyanMarine/PrincessCyanMarine/main/assets/discord.png" alt="Discord username" title="Discord username" style="max-height: 16px; max-width: 16px;"> CyanMarine#2627
 
 
 ----
