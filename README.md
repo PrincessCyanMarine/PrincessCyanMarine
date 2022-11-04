@@ -14,7 +14,10 @@ I speak english and portuguese so feel free to use either
 
 ---
 <h2>Links</h2>
-<div id="links">
+<div id="links" style="display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(150px, 1fr));
+    align-items: center;
+    justify-items: center;">
   <p class="container"><a class="link" href="mailto:cyanmarine@cyanmarine.net"
     ><img
       src="https://raw.githubusercontent.com/PrincessCyanMarine/PrincessCyanMarine/main/assets/email.svg"
