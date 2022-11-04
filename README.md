@@ -10,8 +10,10 @@ I code mostly for fun or study and don't usually share the things I make, so thi
 I speak english and portuguese so feel free to use either
 (I am studying japanese but am not good enough to sustain conversations ごめん)
 
-
-- [<img src="https://img.icons8.com/bubbles/50/000000/apple-mail.png" width=32px alt="Email" title="Email"> cyanmarine@cyanmarine.net][Email] 
+<p align="center">
+  [<img src="https://img.icons8.com/bubbles/50/000000/apple-mail.png" width=32px alt="Email" title="Email"> cyanmarine@cyanmarine.net][Email]
+</p>
+-  
 - <img src="https://img.icons8.com/bubbles/50/000000/discord-logo.png" alt="Discord username" title="Discord username" width=32px;> CyanMarine#2627 (Probably the best way to contact me)
 <!-- - [<img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter" title="Twitter" width=32px;> @cyan_marine][Twitter] -->
 - [<img src="https://img.icons8.com/bubbles/50/000000/domain.png" alt="Website" title="Website" width=32px;> Website][Website]
