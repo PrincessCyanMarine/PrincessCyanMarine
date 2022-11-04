@@ -12,40 +12,6 @@ I code mostly for fun or study and don't usually share the things I make, so thi
 I speak english and portuguese so feel free to use either
 (I am studying japanese but am not good enough to sustain conversations ごめん)
 
-<style>
-  #links {
-    display: grid;
-    grid-template-columns: repeat(auto-fit,minmax(150px, 1fr));
-    align-items: center;
-    justify-items: center;
-  }
-  .container {
-    transition: transform 0.5s ease-in-out;
-    position: relative;
-    color: inherit; 
-  }
-  .container:hover { transform: scale(1.25); }
-  .text {
-    position: absolute;
-    bottom: -50px;
-    left: 0; 
-    right: 0; 
-    margin-left: auto; 
-    margin-right: auto; 
-    width: 100px;
-    font: inherit;
-    opacity: 0%;
-    transition: all 0.5s ease;
-    pointer-events: none;
-    color: #00FFFF; 
-  }
-  .container:hover > .link > .text {
-    bottom: 0px;
-    opacity: 100%;
-  }
-  .link { color: inherit; }
-</style>
-
 ---
 <h2>Links</h2>
 <div id="links">
@@ -55,7 +21,7 @@ I speak english and portuguese so feel free to use either
       width="128px"
       alt="Email"
       title="Email"
-  /> <sub class="text">Email</sub> </a></p>
+  /> </a></p>
 
 
   <p class="container"><a class="link" href="https://www.youtube.com/@cyanmarine"
@@ -64,7 +30,7 @@ I speak english and portuguese so feel free to use either
       alt="Youtube"
       title="Youtube"
       width="128px;"
-  /> <sub class="text">Youtube</sub> </a></p>
+  /> </a></p>
 
 
   <p class="container"><a class="link" href="https://cyanmarine.net/"
@@ -73,7 +39,7 @@ I speak english and portuguese so feel free to use either
       alt="Website"
       title="Website"
       width="128px;"
-  /> <sub class="text">Website</sub> </a></p>
+  /> </a></p>
 
 
   <p class="container"><a class="link" href="https://discordapp.com/users/305883924310261760"
@@ -82,7 +48,7 @@ I speak english and portuguese so feel free to use either
       alt="Discord username"
       title="Discord (Probably the best way to contact me)"
       width="128px;"
-  /> <sub class="text">Discord</sub> </a></p>
+  /> </a></p>
 </div>
 
 
