@@ -1,4 +1,4 @@
-<main style="text-align: center;">
+<div align="center">
 <h1>Hi there 👋</h1>
 
 My name is Marine, pleased to meet you
@@ -60,4 +60,4 @@ I speak english and portuguese so feel free to use either
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrincessCyanMarine&theme=nightowl&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</main>
+</div>
