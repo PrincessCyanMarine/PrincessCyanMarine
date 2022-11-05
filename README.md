@@ -56,7 +56,7 @@ My name is Marine, pleased to meet you
       width="128px"
       alt="Email"
       title="Email"
-  /> <sub class="text">Email</sub> </a></p>
+  /> <!--<sub class="text">Email</sub>--> </a></p>
 
 
   <p class="container"><a class="link" href="https://www.youtube.com/@cyanmarine"
@@ -65,7 +65,7 @@ My name is Marine, pleased to meet you
       alt="Youtube"
       title="Youtube"
       width="128px;"
-  /> <sub class="text">Youtube</sub> </a></p>
+  /> <!--<sub class="text">Youtube</sub>--> </a></p>
 
 
   <p class="container"><a class="link" href="https://cyanmarine.net/"
@@ -74,7 +74,7 @@ My name is Marine, pleased to meet you
       alt="Website"
       title="Website"
       width="128px;"
-  /> <sub class="text">Website</sub> </a></p>
+  /> <!--<sub class="text">Website</sub>--> </a></p>
 
 
   <p class="container"><a class="link" href="https://discordapp.com/users/305883924310261760"
@@ -83,7 +83,7 @@ My name is Marine, pleased to meet you
       alt="Discord username"
       title="Discord (Probably the best way to contact me)"
       width="128px;"
-  /> <sub class="text">Discord</sub> </a></p>
+  /> <!--<sub class="text">Discord</sub>--> </a></p>
 </div>
 
 
