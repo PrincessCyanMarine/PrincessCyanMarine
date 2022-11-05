@@ -10,6 +10,7 @@ My name is Marine, pleased to meet you
 I code mostly for fun or study and don't usually share the things I make, so this account is mostly abandoned
 
 I speak english and portuguese so feel free to use either
+
 (I am studying japanese but am not good enough to sustain conversations ごめん)
 
 ---
