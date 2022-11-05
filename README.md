@@ -12,9 +12,8 @@ My name is Marine, pleased to meet you
 <div>I speak english and portuguese so feel free to use either</div>
 <div>(I am studying japanese but am not good enough to sustain conversations ごめん)</div>
 
-<svg fill="none" viewBox="0 0 100% 1000" width="100%" height="250" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-<style>
+
+<!-- <style>
   #links {
     display: grid;
     grid-template-columns: repeat(auto-fit,minmax(150px, 1fr));
@@ -46,7 +45,7 @@ My name is Marine, pleased to meet you
     opacity: 100%;
   }
   .link { color: inherit; }
-</style>
+</style> -->
 
 ---
 <h2>Links</h2>
@@ -86,8 +85,6 @@ My name is Marine, pleased to meet you
       width="128px;"
   /> <sub class="text">Discord</sub> </a></p>
 </div>
-  </foreignObject>
-</svg>
 
 
 
