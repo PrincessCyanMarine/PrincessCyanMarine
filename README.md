@@ -3,7 +3,6 @@
 
 My name is Marine, pleased to meet you
 
-<div>👸🏽 She/her 👸🏽</div>
 <div>🗺️ Brazilian 🗺️</div>
 <div>🏫 Information systems student 🏫</div>
 <br>
